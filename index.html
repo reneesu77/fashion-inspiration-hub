@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fashion Inspiration Hub</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header class="site-header">
+    <div>
+      <p class="eyebrow">Fashion Design Assistant</p>
+      <h1>Fashion Inspiration Hub</h1>
+      <p class="subtitle">
+        服飾圖案、印花、刺繡工藝、布料與流行趨勢靈感資料庫。
+      </p>
+    </div>
+  </header>
+
+  <main>
+    <section class="toolbar">
+      <input
+        id="searchInput"
+        type="search"
+        placeholder="搜尋：刺繡、花卉、童裝、動物、燙鑽..."
+      />
+
+      <select id="categoryFilter">
+        <option value="all">全部分類</option>
+        <option value="embroidery">刺繡工藝</option>
+        <option value="print">印花圖案</option>
+        <option value="kids">童裝圖案</option>
+        <option value="trend">流行趨勢</option>
+        <option value="fabric">布料材質</option>
+        <option value="market">市場商品</option>
+      </select>
+    </section>
+
+    <section id="cardGrid" class="card-grid"></section>
+  </main>
+
+  <footer>
+    <p>Fashion Inspiration Hub · Built for Renee Su</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
