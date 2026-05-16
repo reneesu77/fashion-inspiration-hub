@@ -1,0 +1,50 @@
+[
+  {
+    "title": "立體花卉刺繡",
+    "category": "embroidery",
+    "description": "適合用在女裝上衣、童裝外套、口袋或胸前小圖。可搭配平繡、毛巾繡與珠繡做層次。",
+    "tags": ["花卉", "刺繡", "立體感", "女裝"],
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?q=80&w=1200&auto=format&fit=crop",
+    "source": "https://www.pinterest.com/search/pins/?q=floral%20embroidery%20fashion"
+  },
+  {
+    "title": "動物插畫圖案",
+    "category": "kids",
+    "description": "適合童裝 T-shirt、帽 T、睡衣系列。可延伸成印花、貼布繡、毛巾繡或局部燙鑽。",
+    "tags": ["動物", "童裝", "插畫", "印花"],
+    "image": "https://images.unsplash.com/photo-1545996124-0501ebae84d0?q=80&w=1200&auto=format&fit=crop",
+    "source": "https://www.pinterest.com/search/pins/?q=kids%20animal%20graphic%20tee"
+  },
+  {
+    "title": "復古徽章貼布",
+    "category": "embroidery",
+    "description": "適合棒球外套、牛仔外套、休閒上衣。可使用貼布繡、鎖邊繡、毛巾繡做美式學院風。",
+    "tags": ["貼布繡", "徽章", "學院風", "外套"],
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1200&auto=format&fit=crop",
+    "source": "https://www.pinterest.com/search/pins/?q=vintage%20embroidered%20patch%20fashion"
+  },
+  {
+    "title": "季節花版印花",
+    "category": "print",
+    "description": "適合春夏女裝、襯衫、洋裝與童裝。可依季節調整配色，做成滿版印花或局部圖案。",
+    "tags": ["印花", "花版", "春夏", "洋裝"],
+    "image": "https://images.unsplash.com/photo-1523381294911-8d3cead13475?q=80&w=1200&auto=format&fit=crop",
+    "source": "https://www.patternbank.com"
+  },
+  {
+    "title": "燙鑽文字圖案",
+    "category": "market",
+    "description": "適合女裝 T-shirt、短版上衣與帽 T。可用簡短英文標語搭配局部燙鑽，提升商品感。",
+    "tags": ["燙鑽", "文字", "T-shirt", "女裝"],
+    "image": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?q=80&w=1200&auto=format&fit=crop",
+    "source": "https://www.pinterest.com/search/pins/?q=rhinestone%20tshirt%20design"
+  },
+  {
+    "title": "伸展台趨勢參考",
+    "category": "trend",
+    "description": "適合分析季節輪廓、色彩、圖案位置與工藝方向。可作為每季企劃提案參考。",
+    "tags": ["趨勢", "秀場", "企劃", "色彩"],
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?q=80&w=1200&auto=format&fit=crop",
+    "source": "https://www.vogue.com/fashion-shows"
+  }
+]
